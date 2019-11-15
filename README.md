@@ -31,3 +31,4 @@ This repository pulls together a number of tutorials and associated assets into 
 |Project Number|Project Subfolder|What is it?|Tutorial Instructions|
 |--|-----------------|-----------|---------------------|
 |1 |getting-started  | Making your first Phaser 3 Game | Start with [Part 1](https://www.phaser.io/tutorials/making-your-first-phaser-3-game/part1)
+|2 |platformer  | Basic Platformer with some scrolling  | Full tutorial in a single page [here](https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3/) |
