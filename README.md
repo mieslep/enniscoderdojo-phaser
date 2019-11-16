@@ -28,7 +28,7 @@ The Live Server Extension will allow you to run a miniature webserver on your ma
 ## Start Learning
 This repository pulls together a number of tutorials and associated assets into a single place. You do not need to download the files as instructed by the tutorials (but if the examples on the website don't match what is in the repository, it means things have gotten out of sync and I need to fix it, so do let me know if this happens please!)
 
-|Project Number|Project Subfolder|What is it?|Tutorial Instructions|
-|--|-----------------|-----------|---------------------|
-|1 |getting-started  | Making your first Phaser 3 Game | Start with [Part 1](https://www.phaser.io/tutorials/making-your-first-phaser-3-game/part1)
-|2 |platformer  | Basic Platformer with some scrolling  | Full tutorial in a single page [here](https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3/) |
+|Project Number|Project Subfolder|What is it?|Tutorial Instructions|Demo|
+|--|-----------------|-----------|---------------------|-----|
+|1 |getting-started  | Making your first Phaser 3 Game | Start with [Part 1](https://www.phaser.io/tutorials/making-your-first-phaser-3-game/part1)|[Final Version](https://mieslep.github.io/enniscoderdojo-phaser/tutorials/getting-started/part10.html)|
+|2 |platformer  | Basic Platformer with some scrolling  | Full tutorial in a single page [here](https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3/) |[Final Version](https://mieslep.github.io/enniscoderdojo-phaser/tutorials/platformer/index.html)|
